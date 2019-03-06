@@ -1,0 +1,20 @@
+{
+    "name": "dolinek/nette-database-prefixes",
+    "description": "Package that allows add prefix to your database table.",
+    "type": "library",
+    "require": {
+        "nette/database": "^3.0@dev",
+        "nette/utils": "^3.0@dev"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vít Dolínek",
+            "email": "dolinekvit@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+      "psr-4": {"Prefixes\\": "src/"}
+    }
+}
