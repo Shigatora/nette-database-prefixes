@@ -3,8 +3,8 @@
     "description": "Package that allows add prefix to your database table.",
     "type": "library",
     "require": {
-        "nette/database": "^3.0@dev",
-        "nette/utils": "^3.0@dev"
+        "nette/database": "^2.3",
+        "nette/utils": "^2.3"
     },
     "license": "MIT",
     "authors": [
